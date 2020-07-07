@@ -40,6 +40,14 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.redisson/redisson -->
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson</artifactId>
+            <version>3.13.1</version>
+        </dependency>
+
 	</dependencies>
 
 	<build>
